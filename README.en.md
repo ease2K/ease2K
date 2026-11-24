@@ -38,3 +38,4 @@ I study Computer Science and Technology at Huazhong Agricultural University. I c
 - **Backend and database** · Java, Spring Boot, Spring MVC, Spring JDBC, SQLite, Node.js
 - **Frontend** · TypeScript, React, Vite
 - **Build and deployment** · Maven, Nginx
+- **AI-assisted development** · Proficient with Codex and similar tools for vibe coding

@@ -38,3 +38,4 @@
 - **后端与数据库** · Java、Spring Boot、Spring MVC、Spring JDBC、SQLite、Node.js
 - **前端** · TypeScript、React、Vite
 - **构建与部署** · Maven、Nginx
+- **AI 辅助开发** · 熟练使用 Codex 等工具进行 vibe coding
