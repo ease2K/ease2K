@@ -12,20 +12,20 @@ CS student at Huazhong Agricultural University. I compete in C++ and maintain a 
 
 | 赛事 | 奖项 |
 | --- | --- |
-| [2026 年中国大学生程序设计竞赛（CCPC）全国邀请赛（秦皇岛）](https://eas1ng-ease2k.cn/award/ccpc-qinhuangdao-2026) | **银奖** |
-| [2026 年辽宁省大学生程序设计竞赛暨 ICPC 国际大学生程序设计竞赛（辽宁省赛）](https://neunews.neu.edu.cn/info/1006/989111.htm) | **铜奖、最快解题奖** |
-| [2026 年中国高校计算机大赛—团体程序设计天梯赛（湖北省“华山论剑”组）](https://eas1ng-ease2k.cn/award/gplt-hubei-2026) | 团队三等奖（华农二队） |
-| [2026 年第九届牛客暑期多校训练营](https://eas1ng-ease2k.cn/award/nowcoder-summer-2026) | 三等奖 |
-| [2026 年第九届牛客寒假算法基础集训营](https://eas1ng-ease2k.cn/award/nowcoder-winter-2026) | 二等奖 |
-| [华中农业大学第十五届程序设计竞赛（2026）](https://eas1ng-ease2k.cn/award/hzau-programming-2026) | 三等奖 |
-| [华中农业大学第十五届程序设计竞赛新生赛（2025）](https://eas1ng-ease2k.cn/award/hzau-freshman-2025) | 二等奖 |
+| 2026 年中国大学生程序设计竞赛（CCPC）全国邀请赛（秦皇岛） | **银奖** |
+| 2026 年辽宁省大学生程序设计竞赛暨 ICPC 国际大学生程序设计竞赛（辽宁省赛） | **铜奖、最快解题奖** |
+| 2026 年中国高校计算机大赛—团体程序设计天梯赛（湖北省“华山论剑”组） | 团队三等奖（华农二队） |
+| 2026 年第九届牛客暑期多校训练营 | 三等奖 |
+| 2026 年第九届牛客寒假算法基础集训营 | 二等奖 |
+| 华中农业大学第十五届程序设计竞赛（2026） | 三等奖 |
+| 华中农业大学第十五届程序设计竞赛新生赛（2025） | 二等奖 |
 
 ### 其他参赛经历
 
-- [2026 年 ICPC 国际大学生程序设计竞赛全国邀请赛（沈阳）](https://xcpcio.com/zh/board/icpc/51st/shenyang-invitational)
-- [第 51 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（西安）](https://icpc.pku.edu.cn/ssxx/99587d1ae53b46468022c30b43cbb01f.htm)
-- [第 51 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（沈阳）](https://icpc.pku.edu.cn/docs/2026-10/d5fe0f6eebe64dff913c4cac295de38d.pdf)
-- [第 12 届 CCPC 中国大学生程序设计竞赛（厦门）](https://rl.algoux.cn/ranklist/ccpc2026xiamen)
+- 2026 年 ICPC 国际大学生程序设计竞赛全国邀请赛（沈阳）
+- 第 51 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（西安）
+- 第 51 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（沈阳）
+- 第 12 届 CCPC 中国大学生程序设计竞赛（厦门）
 
 ## 个人项目 · Projects
 
