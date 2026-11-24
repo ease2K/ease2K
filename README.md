@@ -2,7 +2,7 @@
 
 **简体中文** · [English](./README.en.md)
 
-我就读于华中农业大学计算机科学与技术专业，主要学习 Java 后端开发。我开发并维护个人博客，在其中分享项目实践和技术笔记。博客后端使用 Spring Boot 和 MyBatis，前端使用 React 和 TypeScript。我曾在前端练习中使用 Vue。
+我就读于华中农业大学计算机科学与技术专业，主要学习 Java 后端开发。我开发并维护个人博客，在其中分享项目实践和技术笔记。博客后端使用 Spring Boot 和 MyBatis，前端使用 React 和 TypeScript。
 
 我也使用 C++ 参加算法竞赛，并在 HZAUOJ 发布过入门题。
 
@@ -40,6 +40,6 @@
 - **后端** · Java 27、Spring Boot 4.1.2、Spring Framework 7.0.10（Spring MVC、Spring JDBC）
 - **数据访问与数据库** · MyBatis 3.5.19、MyBatis-Spring 4.0.0、SQLite 3.53.4（SQLite JDBC 3.53.4.0）、MySQL 26.7.0（本机）
 - **Node.js** · 本机 25.8.1，项目要求 22.13.0 或更新版本
-- **前端** · HTML、CSS、JavaScript、TypeScript 5.9.3、React 19.2.6、Vite 8.0.13、Vue 3.5.24（学习实践）
+- **前端** · HTML、CSS、JavaScript、TypeScript 5.9.3、React 19.2.6、Vite 8.0.13
 - **构建与部署** · Maven 3.9.16、Nginx 1.31.8（本机版本）
 - **AI 辅助开发** · 熟练使用 Codex 等工具进行 vibe coding（本机 Codex CLI 0.171.0-alpha.13）

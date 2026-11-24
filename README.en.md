@@ -2,7 +2,7 @@
 
 [简体中文](./README.md) · **English**
 
-I study Computer Science and Technology at Huazhong Agricultural University, with a focus on Java backend development. I develop and maintain a personal blog where I share technical notes and document my project work. The blog uses Spring Boot and MyBatis on the backend and React and TypeScript on the frontend. I have also used Vue in frontend practice projects.
+I study Computer Science and Technology at Huazhong Agricultural University, with a focus on Java backend development. I develop and maintain a personal blog where I share technical notes and document my project work. The blog uses Spring Boot and MyBatis on the backend and React and TypeScript on the frontend.
 
 I also compete in programming contests using C++ and have published introductory problems on HZAUOJ.
 
@@ -40,6 +40,6 @@ I also compete in programming contests using C++ and have published introductory
 - **Backend** · Java 27, Spring Boot 4.1.2, Spring Framework 7.0.10 (Spring MVC and Spring JDBC)
 - **Data access and databases** · MyBatis 3.5.19, MyBatis-Spring 4.0.0, SQLite 3.53.4 (SQLite JDBC 3.53.4.0), MySQL 26.7.0 (local)
 - **Node.js** · 25.8.1 locally. The projects require 22.13.0 or newer.
-- **Frontend** · HTML, CSS, JavaScript, TypeScript 5.9.3, React 19.2.6, Vite 8.0.13, Vue 3.5.24 (learning projects)
+- **Frontend** · HTML, CSS, JavaScript, TypeScript 5.9.3, React 19.2.6, Vite 8.0.13
 - **Build and deployment** · Maven 3.9.16 and Nginx 1.31.8 (local versions)
 - **AI-assisted development** · Proficient with Codex and similar tools for vibe coding (local Codex CLI 0.171.0-alpha.13)
