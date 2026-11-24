@@ -1,5 +1,7 @@
 # eAs1nGG-_- · ease2K
 
+**简体中文** · [English](./README.en.md)
+
 我是华中农业大学计算机科学专业学生。我用 C++ 参加算法竞赛，也在 HZAU OJ 发布入门题。平时维护一个 Spring Boot 个人博客，记录算法题解、Java 后端实践和开发笔记。
 
 CS student at Huazhong Agricultural University. I compete in C++ and maintain a personal blog built with Java and Spring Boot.
