@@ -2,9 +2,9 @@
 
 **简体中文** · [English](./README.en.md)
 
-我在华中农业大学读计算机科学与技术，目前主要学习 Java 后端开发。个人博客是我练手的项目，后端用的是 Spring Boot 和 MyBatis。我也会把开发中遇到的问题和解决办法写成笔记，发在博客上。
+我就读于华中农业大学计算机科学与技术专业，主要学习 Java 后端开发。我使用 Spring Boot 和 MyBatis 开发并维护个人博客，在博客上分享项目实践和技术笔记。
 
-课余我用 C++ 参加算法竞赛，也在 HZAUOJ 发布过一些入门题。
+我也使用 C++ 参加算法竞赛，并在 HZAUOJ 发布过入门题。
 
 [个人博客](https://eas1ng-ease2k.cn/) ·[HZAUOJ](http://acm.hzau.edu.cn/)
 

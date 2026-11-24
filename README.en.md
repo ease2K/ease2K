@@ -2,9 +2,9 @@
 
 [简体中文](./README.md) · **English**
 
-I study Computer Science and Technology at Huazhong Agricultural University and am currently focusing on Java backend development. My personal blog is where I put what I learn into practice. I use Spring Boot and MyBatis on the backend and write about the problems I run into and how I solve them.
+I study Computer Science and Technology at Huazhong Agricultural University, with a focus on Java backend development. I develop and maintain a personal blog using Spring Boot and MyBatis, where I share technical notes and document my project work.
 
-In my spare time, I compete in programming contests using C++ and have written beginner problems for HZAUOJ.
+I also compete in programming contests using C++ and have published introductory problems on HZAUOJ.
 
 [Personal blog](https://eas1ng-ease2k.cn/) · [HZAUOJ](http://acm.hzau.edu.cn/)
 
