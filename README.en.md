@@ -2,7 +2,7 @@
 
 [简体中文](./README.md) · **English**
 
-I'm a computer science student at Huazhong Agricultural University. I compete in programming contests using C++ and write introductory problems for HZAU OJ. I also maintain a personal blog built with Spring Boot, where I share contest solutions and notes on Java backend development and my projects.
+I study Computer Science and Technology at Huazhong Agricultural University. I compete in programming contests using C++ and write introductory problems for HZAU OJ. I also maintain a personal blog built with Spring Boot, where I share contest solutions and notes on Java backend development and my projects.
 
 [Personal blog](https://eas1ng-ease2k.cn/) · [Problems I wrote for HZAU OJ](https://eas1ng-ease2k.cn/competitions/problems) · [AtCoder](https://atcoder.jp/users/ease2k)
 
