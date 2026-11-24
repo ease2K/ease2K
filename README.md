@@ -4,11 +4,9 @@
 
 我是华中农业大学计算机科学专业学生。我用 C++ 参加算法竞赛，也在 HZAU OJ 发布入门题。平时维护一个 Spring Boot 个人博客，记录算法题解、Java 后端实践和开发笔记。
 
-CS student at Huazhong Agricultural University. I compete in C++ and maintain a personal blog built with Java and Spring Boot.
+[个人博客](https://eas1ng-ease2k.cn/) · [HZAU OJ 原创题目](https://eas1ng-ease2k.cn/competitions/problems) · [AtCoder](https://atcoder.jp/users/ease2k)
 
-[个人博客 · Personal blog](https://eas1ng-ease2k.cn/) · [HZAU OJ 原创题目](https://eas1ng-ease2k.cn/competitions/problems) · [AtCoder](https://atcoder.jp/users/ease2k)
-
-## 竞赛与奖项 · Contests and awards
+## 竞赛与奖项
 
 ### 获奖记录
 
@@ -29,12 +27,12 @@ CS student at Huazhong Agricultural University. I compete in C++ and maintain a 
 - 第 51 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（沈阳）
 - 第 12 届 CCPC 中国大学生程序设计竞赛（厦门）
 
-## 个人项目 · Projects
+## 个人项目
 
 - **[ease2k 博客 · Spring Boot 版](https://github.com/ease2K/ease2k-blog-springboot-public)** — 目前主要维护的版本。我把博客后端从 Node.js 迁移到 Spring Boot，保留了 React 前端和 SQLite 数据格式。项目支持 Markdown 写作、草稿与发布、全文搜索和 RSS。
 - **[ease2k 博客 · Node.js 版](https://github.com/ease2K/ease2k-blog-public)** — 博客的早期实现，使用 Node.js、React 和 Vite，可与 Spring Boot 版对照阅读。
 
-## 技术栈 · Tech stack
+## 技术栈
 
 - **算法竞赛** · C++、STL
 - **后端与数据库** · Java、Spring Boot、Spring MVC、Spring JDBC、SQLite、Node.js
