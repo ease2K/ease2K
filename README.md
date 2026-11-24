@@ -40,6 +40,9 @@
 - **后端** · Java 27、Spring Boot 4.1.2、Spring Framework 7.0.10（Spring MVC、Spring JDBC）
 - **数据访问** · MyBatis 3.5.19、MyBatis-Spring 4.0.0、SQLite 3.53.4（SQLite JDBC 3.53.4.0）
 - **Node.js** · 本机 25.8.1，项目要求 22.13.0 或更新版本
-- **前端** · TypeScript 5.9.3、React 19.2.6、Vite 8.0.13
+- **前端与构建** · HTML、CSS、JavaScript、TypeScript 5.9.3、React 与 React DOM 19.2.6、Vite 8.0.13
+- **界面与样式** · CSS Grid、Flexbox 和媒体查询（响应式布局），CSS 自定义属性（主题样式），lucide-react 1.31.0（图标），hyperellipse 1.0.5（圆角兼容）
+- **Markdown 处理** · react-markdown 10.1.0 和 remark-gfm 4.0.1 用于文章渲染，unified 11.0.5 和 remark-parse 11.0.0 用于内容解析
+- **公式与代码展示** · KaTeX 0.19.1、remark-math 6.0.0、rehype-katex 7.0.1（数学公式），Highlight.js 11.12.0（代码高亮）
 - **构建与部署** · Maven 3.9.16、Nginx 1.31.8（本机版本）
 - **AI 辅助开发** · 熟练使用 Codex 等工具进行 vibe coding（本机 Codex CLI 0.171.0-alpha.13）
