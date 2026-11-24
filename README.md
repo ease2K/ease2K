@@ -2,7 +2,7 @@
 
 **简体中文** · [English](./README.en.md)
 
-我就读于华中农业大学计算机科学与技术专业，主要学习 Java 后端开发。我使用 Spring Boot 和 MyBatis 开发并维护个人博客，在博客上分享项目实践和技术笔记。
+我就读于华中农业大学计算机科学与技术专业，主要学习 Java 后端开发。我开发并维护个人博客，在其中分享项目实践和技术笔记。博客后端使用 Spring Boot 和 MyBatis，前端使用 React 和 TypeScript。我曾在前端练习中使用 Vue。
 
 我也使用 C++ 参加算法竞赛，并在 HZAUOJ 发布过入门题。
 

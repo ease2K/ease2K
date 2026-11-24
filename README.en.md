@@ -2,7 +2,7 @@
 
 [简体中文](./README.md) · **English**
 
-I study Computer Science and Technology at Huazhong Agricultural University, with a focus on Java backend development. I develop and maintain a personal blog using Spring Boot and MyBatis, where I share technical notes and document my project work.
+I study Computer Science and Technology at Huazhong Agricultural University, with a focus on Java backend development. I develop and maintain a personal blog where I share technical notes and document my project work. The blog uses Spring Boot and MyBatis on the backend and React and TypeScript on the frontend. I have also used Vue in frontend practice projects.
 
 I also compete in programming contests using C++ and have published introductory problems on HZAUOJ.
 
