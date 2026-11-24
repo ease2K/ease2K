@@ -2,9 +2,9 @@
 
 **简体中文** · [English](./README.en.md)
 
-我是华中农业大学计算机科学与技术专业学生。我用 C++ 参加算法竞赛，也在 HZAU OJ 发布入门题。平时维护一个 Spring Boot 个人博客，记录算法题解、Java 后端实践和开发笔记。
+我是华中农业大学计算机科学与技术专业学生。我用 C++ 参加算法竞赛，也在 HZAUOJ 发布入门题。平时维护一个 Spring Boot 个人博客，记录算法题解、Java 后端实践和开发笔记。
 
-[个人博客](https://eas1ng-ease2k.cn/) · [HZAU OJ 原创题目](https://eas1ng-ease2k.cn/competitions/problems) · [AtCoder](https://atcoder.jp/users/ease2k)
+[个人博客](https://eas1ng-ease2k.cn/) ·[HZAUOJ](http://acm.hzau.edu.cn/)
 
 ## 竞赛与奖项
 
