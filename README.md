@@ -37,7 +37,7 @@
 ## 技术栈
 
 - **后端** · Java 27、Spring Boot 4.1.2、Spring Framework 7.0.10（Spring MVC、Spring JDBC）
-- **数据访问与数据库** · MyBatis 3.5.19、MyBatis-Spring 4.0.0、SQLite 3.53.4（SQLite JDBC 3.53.4.0）、MySQL 26.7.0（本机）
+- **数据访问与数据库** · MyBatis 3.5.19、MyBatis-Spring 4.0.0、SQLite 3.53.4（SQLite JDBC 3.53.4.0）、MySQL 26.7.0（本机）、PostgreSQL 18.3（本机）
 - **Node.js** · 本机 25.8.1，项目要求 22.13.0 或更新版本
 - **前端** · HTML、CSS、JavaScript、TypeScript 5.9.3、React 19.2.6、Vite 8.0.13、Vue 3.5.24（学习实践）
 - **构建与部署** · Maven 3.9.16、Nginx 1.31.8（本机版本）
