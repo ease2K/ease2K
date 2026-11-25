@@ -40,7 +40,7 @@
 - **数据访问与数据库** · MyBatis 3.5.19、MyBatis-Spring 4.0.0、SQLite 3.53.4（SQLite JDBC 3.53.4.0）、MySQL 26.7.0（本机）、PostgreSQL 18.3（本机）
 - **Node.js** · 本机 25.8.1，项目要求 22.13.0 或更新版本
 - **前端** · HTML、CSS、JavaScript、TypeScript 5.9.3、React 19.2.6、Vite 8.0.13、Vue 3.5.24（学习实践）
-- **版本控制** · Git
+- **版本控制** · Git 2.56.1（本机版本）
 - **构建与部署** · Maven 3.9.16、Nginx 1.31.8（本机版本）
 - **AI 辅助开发** · 熟练使用 Codex 等工具进行 vibe coding（本机 Codex CLI 0.171.0-alpha.13）
 - **算法竞赛** · C++23、STL（本机编译器 GCC 15.2.0）
